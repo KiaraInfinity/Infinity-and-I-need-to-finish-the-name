@@ -2,4 +2,6 @@
 
 Trying to create the site here and hope to succeed, so this is the first attempt therefore here you go with the formulas:
 
-$$e^{i\pi} + 1 - 0$$
+$$e^{i\pi} + 1 = 0$$
+
+Now that I wanna add another section what shall I do
